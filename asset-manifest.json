@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/todhritesh/react-firebase-article/static/css/main.c5af79bc.css",
+    "main.js": "/todhritesh/react-firebase-article/static/js/main.1cb836de.js",
+    "static/js/787.04a3a6cf.chunk.js": "/todhritesh/react-firebase-article/static/js/787.04a3a6cf.chunk.js",
+    "index.html": "/todhritesh/react-firebase-article/index.html",
+    "main.c5af79bc.css.map": "/todhritesh/react-firebase-article/static/css/main.c5af79bc.css.map",
+    "main.1cb836de.js.map": "/todhritesh/react-firebase-article/static/js/main.1cb836de.js.map",
+    "787.04a3a6cf.chunk.js.map": "/todhritesh/react-firebase-article/static/js/787.04a3a6cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5af79bc.css",
+    "static/js/main.1cb836de.js"
+  ]
+}
